@@ -1,1 +1,37 @@
-body{color: deepskyblue;}
+body{
+    color: deepskyblue;
+    margin: 0%;
+    border: 0px;
+    font-family: monospace;
+}
+h1{
+    color: plum;
+font-size: xx-large;
+font-family: monospace;
+padding: 2px 40px;
+text-align: center;
+}
+h2{
+    color: lightpink;
+    font-family: monospace;
+    text-align: center;
+}
+h3{
+    font-family: monospace;
+}
+p{
+    color: skyblue;
+    font-family: monospace;
+}
+.ABC{
+    color: rgb(121, 226, 226);
+    font-family: monospace;
+}
+.XYZ{
+    padding: 20px 20px;
+    margin: 20px 20px;
+    text-align: justify; 
+}
+.whale{
+
+}
